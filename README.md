@@ -63,4 +63,10 @@ See `reference/starter.py` for a boilerplate template.
 
 ---
 
+## Next Assignment
+
+Ready to continue? [**Start Lab 3.6: Capstone Project**](https://classroom.github.com/a/o-JSm5MQ)
+
+---
+
 *SignalWire AI Agents Certification*
